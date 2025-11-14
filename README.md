@@ -1,4 +1,3 @@
-```markdown
 # SecondBurst
 
 A simple Windows desktop utility application written in pure C using Win32 API.
@@ -33,4 +32,4 @@ Open `SecondBurst.sln` in Visual Studio and build the solution (Ctrl+Shift+B).
 
 ## License
 Public Domain
-```
+
